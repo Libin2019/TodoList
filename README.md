@@ -3,7 +3,12 @@
 > A Vue.js project
 
 ## Build Setup
+## 第一个github小demo，之前还搞不懂.md文件怎么去写，现在把readme.md文件完善一下，方便大家直接看到todolist的效果
 
+![](src/assets/todoliat.gif)
+
+可直接选择git clone 或者download下载，cmd命令进入项目根目录下，`npm install `或者`cnpm install ` -----> `cnpm run dev` 然后在本地服务器8080端口打开即可。
+（这里默认您已经拥有相关的Node npm包管理工具）,具体相关的代码逻辑可以移步到[我的CSDN](https://mp.csdn.net/postedit/88718949)。样式是自己用纯css写的，有点丑，不喜勿喷。
 ``` bash
 # install dependencies
 npm install
